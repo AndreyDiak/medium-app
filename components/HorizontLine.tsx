@@ -1,0 +1,1 @@
+export const HorizontLine = () => <hr className="max-w-lg my-5 mx-auto border border-yellow-500"/>
